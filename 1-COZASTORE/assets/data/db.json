@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Esprit Ruffle Shirt",
+      "price": 16.64,
+      "imgUrl": "/1-COZASTORE/assets/image/product-01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Herschel supply",
+      "price": 35.31,
+      "imgUrl": "/1-COZASTORE/assets/image/product-02.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Only Check Trouser",
+      "price": 25.52,
+      "imgUrl": "/1-COZASTORE/assets/image/product-03.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Classic Trench Coat",
+      "price": 64.5,
+      "imgUrl": "/1-COZASTORE/assets/image/product-04.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Front Pocket Jumper",
+      "price": 87.96,
+      "imgUrl": "/1-COZASTORE/assets/image/product-05.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Vintage Inspired Classic",
+      "price": 93.2,
+      "imgUrl": "/1-COZASTORE/assets/image/product-06.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Shirt in Stretch Cotton",
+      "price": 52.66,
+      "imgUrl": "/1-COZASTORE/assets/image/product-07.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Pieces Metallic Printed",
+      "price": 18.96,
+      "imgUrl": "/1-COZASTORE/assets/image/product-08.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Converse All Star Hi Plimsolls",
+      "price": 75.0,
+      "imgUrl": "/1-COZASTORE/assets/image/product-09.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Femme T-Shirt In Stripe",
+      "price": 25.88,
+      "imgUrl": "/1-COZASTORE/assets/image/product-10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Herschel supply",
+      "price": 62.16,
+      "imgUrl": "/1-COZASTORE/assets/image/product-11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Herschel supply",
+      "price": 63.15,
+      "imgUrl": "/1-COZASTORE/assets/image/product-12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "T-Shirt with Sleeve",
+      "price": 18.49,
+      "imgUrl": "/1-COZASTORE/assets/image/product-13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Pretty Little Thing",
+      "price": 54.79,
+      "imgUrl": "/1-COZASTORE/assets/image/product-14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Mini Silver Mesh Watch",
+      "price": 86.85,
+      "imgUrl": "/1-COZASTORE/assets/image/product-15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Square Neck Back",
+      "price": 29.64,
+      "imgUrl": "/1-COZASTORE/assets/image/product-16.jpg"
+    }
+  ]
+}
