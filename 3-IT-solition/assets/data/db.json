@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgUrl": "https://preview.colorlib.com/theme/itlock/assets/img/gallery/blog1.jpg",
+      "name": "Managed IT services",
+      "desc": "We understand the complexities of modern markets and translate them into real business solutions for automotive, financial, insuranc."
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://preview.colorlib.com/theme/itlock/assets/img/gallery/blog2.jpg",
+      "name": "Backup and recovery",
+      "desc": "We understand the complexities of modern markets and translate them into real business solutions for automotive, financial, insuranc."
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://preview.colorlib.com/theme/itlock/assets/img/gallery/blog3.jpg",
+      "name": "Cyber security",
+      "desc": "We understand the complexities of modern markets and translate them into real business solutions for automotive, financial, insuranc."
+    }
+  ]
+}
