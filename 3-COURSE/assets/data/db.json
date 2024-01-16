@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"A complete guide to design",
+            "desc":"Adobe Guide, Layes, Smart Objects etc...",
+            "imgUrl":"/3-COURSE/assets/image/course_1.jpg"
+
+        },
+        {
+            "id":"2",
+            "name":"Beginners guide to HTML",
+            "desc":"Adobe Guide, Layes, Smart Objects etc...",
+            "imgUrl":"/3-COURSE/assets/image/course_2.jpg"
+
+        },
+        {
+            "id":"3",
+            "name":"A complete guide to design",
+            "desc":"Adobe Guide, Layes, Smart Objects etc...",
+            "imgUrl":"/3-COURSE/assets/image/course_3.jpg"
+
+        }
+    ]
+}
